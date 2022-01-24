@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gdoda
 - 👀 I’m interested in software development and open source
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Docker
 - 💞️ I’m looking to collaborate on Java and Python projects
 - 📫 How to reach me: via email
 

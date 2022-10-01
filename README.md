@@ -2,7 +2,6 @@
 - 👀 I’m interested in software development and open source
 - 🌱 I’m currently learning C++ and Docker
 - 💞️ I’m looking to collaborate on Java and Python projects
-- 📫 How to reach me: via email
 
 <!---
 gdoda/gdoda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
